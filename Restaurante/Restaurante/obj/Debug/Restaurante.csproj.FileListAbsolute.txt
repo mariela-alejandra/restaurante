@@ -1,0 +1,13 @@
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.Login.resources
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.Comida.resources
+C:\Users\Leo\Desktop\m y m\Restaurante\Restaurante\obj\Debug\Restaurante.Usuario.resources
