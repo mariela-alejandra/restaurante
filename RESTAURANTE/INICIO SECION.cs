@@ -21,6 +21,7 @@ namespace RESTAURANTE
        
         private void btncancelar_Click(object sender, EventArgs e)
         {
+           // MessageBox.Show("Adios"));
             Application.Exit();
         }
 
