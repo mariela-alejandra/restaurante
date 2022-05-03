@@ -81,8 +81,9 @@
             this.cbcargo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbcargo.FormattingEnabled = true;
             this.cbcargo.Items.AddRange(new object[] {
-            "ADMINISTRADOR",
-            "CAJERO"});
+            "Administrador",
+            "Cajero",
+            "Mesero"});
             this.cbcargo.Location = new System.Drawing.Point(598, 135);
             this.cbcargo.Name = "cbcargo";
             this.cbcargo.Size = new System.Drawing.Size(256, 24);
