@@ -28,8 +28,8 @@ namespace RESTAURANTE
         {
             try
             {
-                conexion.Open();
-                //MessageBox.Show("Conectado");
+             conexion.Open();
+                MessageBox.Show("Conectado");
             }
             catch (Exception a)
             {
@@ -81,16 +81,6 @@ namespace RESTAURANTE
                 e.Handled = true;
                 return;
             }
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
